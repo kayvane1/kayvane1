@@ -4,7 +4,7 @@
 
 I work primarily with Financial Services Companies to rethink operational processes using intelligent automation. Passionate about Natual Language Processing and Computer Vision. 
 
-- 🔭 I’m currently working on applications of Machine Learning in Financial Crime. 
+- 🔭 I’m currently working on applications of Machine Learning in Financial Crime. In my spare time I'm working on a Generative Art project and a Reinforcement Learning Trading Algorithm.
 
 - 🌱 I’m currently learning End to End Machine Learning Deployments and interested in Machine Learning Explainability. 
 
@@ -17,10 +17,10 @@ I work primarily with Financial Services Companies to rethink operational proces
 
 I'll usually adapt to the technologies my clients have on-premise and combining them to solve the client problem. Below are some of my favorite technologies and frameworks. 
 
-🤖 Machine Learning. 
+### 🤖 Machine Learning. 
 Huggingface Transformers, SpaCy, XGBoost, Pytorch, OpenCV
 
-☁️ Cloud. 
+### ☁️ Cloud. 
 Docker, Terraform, Serverless Framework
 
 
