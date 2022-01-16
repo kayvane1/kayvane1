@@ -7,17 +7,17 @@ I'm Kayvane, a Machine Learning Enthusiast working in London. I work primarily w
 
 - 🌱 I’m currently learning End to End Machine Learning Deployments and interested in Machine Learning Explainability. 
 
-🔗 Connect with me
+🔗 Connect with me. 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kayvane.shakerifar)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/kayvane)
 
-⚡Technologies
+⚡Technologies. 
 I'll usually adapt to the technologies my clients have on-premise and combining them to solve the client problem. Below are some of my favorite technologies and frameworks. 
 
-🤖 Machine Learning
+🤖 Machine Learning. 
 Huggingface Transformers, SpaCy, XGBoost, Pytorch, OpenCV
 
-☁️ Cloud
+☁️ Cloud. 
 Docker, Terraform, Serverless Framework
 
 
