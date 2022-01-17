@@ -9,9 +9,8 @@ I work primarily with Financial Services Companies to rethink operational proces
 - 🌱 I’m currently learning End to End Machine Learning Deployments and interested in Machine Learning Explainability. 
 
 ## 🔗 Connect with me
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kayvane.shakerifar)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/kayvane)
+<a href="https://medium.com/@kayvane.shakerifar" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="linkedin.com/in/kayvane" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## ⚡ Favourite Technologies.
 
