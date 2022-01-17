@@ -10,7 +10,7 @@ I work primarily with Financial Services Companies to rethink operational proces
 
 ## 🔗 Connect with me
 <a href="https://medium.com/@kayvane.shakerifar" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="linkedin.com/in/kayvane" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/kayvane" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## ⚡ Favourite Technologies.
 
