@@ -1,6 +1,6 @@
 # Welcome
 
-👋 Hello, I'm Kayvane, a Machine Learning Enthusiast working in London. 
+👋 Hello, I'm Kayvane, a Machine Learning Engineer working in London. 
 
 I work primarily with Financial Services Companies to rethink operational processes using intelligent automation. Passionate about Natual Language Processing and Computer Vision. 
 
