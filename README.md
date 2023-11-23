@@ -2,11 +2,11 @@
 
 👋 Hello, I'm Kayvane, a Machine Learning Engineer working in London. 
 
-I work primarily with Financial Services Companies to rethink operational processes using intelligent automation. Passionate about Natual Language Processing and Computer Vision. 
+I work primarily with Financial Services Companies, having focused mostly on Financial Crime Prevention, Anti-Money Laundering and Sustainability Quantification.
 
-- 🔭 I’m currently working on applications of Machine Learning in Financial Crime. In my spare time I'm working on a Generative Art project and a Reinforcement Learning Trading Algorithm.
+- 🔭 I’m currently working on leveraging LLMs to build Knowledge Graphs
 
-- 🌱 I’m currently learning End to End Machine Learning Deployments and interested in Machine Learning Explainability. 
+- 🌱 I’m currently learning about End to End ML/LLM Deployments and interested in Machine Learning Explainability and adversarial attacks. 
 
 ## 🔗 Connect with me
 <a href="https://medium.com/@kayvane.shakerifar" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
@@ -17,9 +17,9 @@ I work primarily with Financial Services Companies to rethink operational proces
 I'll usually adapt to the technologies my clients have on-premise and combining them to solve the client problem. Below are some of my favorite technologies and frameworks. 
 
 ### 🤖 Machine Learning. 
-Huggingface Transformers, SpaCy, XGBoost, Pytorch, OpenCV
+OpenAI, PyTorch, PyTorch Lightning, Transformers, SpaCy, Weights & Biases
 
-### ☁️ Cloud. 
-Docker, Terraform, Serverless Framework
+### ☁️ Stack Experience 
+AWS, Docker, Terraform, DBT, Airflow, CDK, Databricks
 
 
