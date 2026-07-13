@@ -2,7 +2,7 @@
 
 👋 I'm Kayvane, a Machine Learning Engineer working in London. 
 
-I've spent most of my career at the intersection of ML & Finance, with experience in Financial Crime Prevention, Anti-Money Laundering, Sustainability Quantification, Back Office Automation in Private Equity & VC. 
+I've spent most of my career at the intersection of ML & Finance, with experience in Financial Crime Prevention, Anti-Money Laundering, Sustainability Quantification, Call Center & Back Office Automation in Private Equity & VC. 
 
 ## 🔗 Connect with me
 <a href="https://medium.com/@kayvane.shakerifar" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
